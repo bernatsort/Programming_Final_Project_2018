@@ -1,0 +1,2 @@
+Visita a Paris;Terrestre;50;50;0;Francia;7;14;12;2018;21;12;2018;0;
+Visita a Barcelona;Terrestre;25;25;12;España;7;14;12;2018;21;12;2018;0;
